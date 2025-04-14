@@ -25,7 +25,7 @@ export const LoginForm = () => {
         </div>
         <button type='submit'>Conecta</button>
         <div className='register-link'>
-          <p>¿No tienes una cuenta?<a href='#'>Regístrate</a></p>
+          <p>¿No tienes una cuenta?<a href='#'> Regístrate</a></p>
         </div>
       </form>
     </div>

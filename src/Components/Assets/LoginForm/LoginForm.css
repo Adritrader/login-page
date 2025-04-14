@@ -1,8 +1,13 @@
 .wrapper {
 
     width: 420px;
-    background-color: slateblue;
+    background-color: transparent;
     color: white;
+    border: 2px solid white;
+    box-shadow: 0 0 20px rgba(255, 255, 255, .2);
+    backdrop-filter: blur(40px);
+    border-radius: 10px;
+    padding: 20px 30px;
 }
 
 .wrapper h1 {
@@ -54,7 +59,7 @@
 
     display: flex;
     justify-content: space-between;
-    font-size: 14px;
+    font-size: 12px;
     margin: -15px 0 15px;
 
 }
