@@ -1,50 +1,30 @@
-React Login Page
-Una página de inicio de sesión sencilla construida con React. Ideal como base para proyectos web que necesiten autenticación básica.
+# React Login Page
 
-Características
-Interfaz limpia y minimalista.
+Una **página de inicio de sesión sencilla** construida con **React**. Ideal como base para proyectos web que necesiten autenticación básica.
 
-Componentes reutilizables.
+## ✨ Características
 
-Estilos responsivos con CSS puro.
+- Interfaz limpia y minimalista.
+- Componentes reutilizables.
+- Estilos responsivos con **CSS puro**.
+- Preparada para integrar autenticación (Firebase, API propia, etc.).
 
-Preparada para integrar autenticación (Firebase, API propia, etc.).
+## 🛠️ Tecnologías utilizadas
 
-Tecnologías utilizadas
-React
-CSS
+- [React](https://reactjs.org/)
+- CSS
 
-Cómo ejecutar el proyecto
-Clona este repositorio:
+## ▶️ Cómo ejecutar el proyecto
 
-bash
-Copiar
-Editar
+```bash
+# Clona este repositorio:
 git clone https://github.com/tuusuario/react-login-page.git
-Entra en el directorio del proyecto:
 
-bash
-Copiar
-Editar
+# Entra en el directorio del proyecto:
 cd react-login-page
-Instala las dependencias:
 
-bash
-Copiar
-Editar
+# Instala las dependencias:
 npm install
-Ejecuta la aplicación:
 
-bash
-Copiar
-Editar
+# Ejecuta la aplicación:
 npm run dev
-Abre tu navegador en http://localhost:5173 (o el puerto que indique la terminal).
-
-Personalización
-Puedes conectar fácilmente esta interfaz a tu backend, añadir rutas protegidas con React Router, o integrar proveedores como Firebase Auth, Auth0, etc.
-
-Licencia
-Este proyecto está bajo la licencia MIT.
-
-
